@@ -18,7 +18,7 @@ namespace MessageDemo
             //Send("nyKo", "Dette er en besked xd");
             for (int i = 0; i < 100; i++)
             {
-                Send("nyKo", "HEJ DET ER MIG THOMAS");
+                Send("nyKo", "Hej");
             }
             Console.ReadLine();
         }
